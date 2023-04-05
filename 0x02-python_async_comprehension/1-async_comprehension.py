@@ -2,7 +2,8 @@
 '''task 1 module
 '''
 from typing import List
-from random import randint
+from importlib import import_module as using
+
 
 async_generator = __import__('0-async_generator').async_generator
 
