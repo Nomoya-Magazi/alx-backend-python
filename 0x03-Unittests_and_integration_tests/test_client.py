@@ -2,7 +2,6 @@
 """A module for testing the client module.
 """
 import unittest
-from fixtures import TEST_PAYLOAD
 from typing import Dict
 from unittest.mock import (
     MagicMock,
